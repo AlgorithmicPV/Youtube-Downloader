@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>download-alt-3-svgrepo-com.png</file>
+    <file>chevrons-right.svg</file>
+    <file>download.svg</file>
+  </qresource>
+</RCC>
